@@ -9,6 +9,15 @@ TagManager:
   - SimpleHouse
   - SimpleFoodWarehouse
   - FoodWarehouse
+  - SimpleWoodWarehouse
+  - WoodWarehouse
+  - SimpleStoneWarehouse
+  - StoneWarehouse
+  - House
+  - GoodHouse
+  - GoodFoodWarehouse
+  - GoodWoodWarehouse
+  - GoodStoneWarehouse
   layers:
   - Default
   - TransparentFX

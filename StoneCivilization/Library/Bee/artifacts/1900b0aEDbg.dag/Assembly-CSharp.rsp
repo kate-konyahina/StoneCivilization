@@ -330,6 +330,8 @@
 -r:"D:/Kate/Investments/ITAcademy_Unity/StoneCivilizationGit/StoneCivilization/StoneCivilization/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
 -r:"D:/Kate/Investments/ITAcademy_Unity/StoneCivilizationGit/StoneCivilization/StoneCivilization/Library/PackageCache/com.unity.burst@1.6.6/Unity.Burst.Unsafe.dll"
 -r:"D:/Kate/Investments/ITAcademy_Unity/StoneCivilizationGit/StoneCivilization/StoneCivilization/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/NavMeshPlus.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/NavMeshPlusEditor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/PsdPlugin.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Animation.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Animation.Runtime.ref.dll"
@@ -373,8 +375,12 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CharacterInfo.cs"
 "Assets/Scripts/JoystickMovement.cs"
+"Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/PlayerMove.cs"
 "Assets/Scripts/ResourceManager.cs"
+"Assets/Scripts/WorkingPlaceForest.cs"
+"Assets/Scripts/WorkingPlaceMountains.cs"
+"Assets/Scripts/WorkingPlaceSea.cs"
 -langversion:9.0
 
 /deterministic
